@@ -8,14 +8,23 @@ The company markets its courses on several websites and search engines like Goog
 For this case study we're going to use several classification model to predict whether the lead is going to quantify as a hot lead. The steps involved for this case study are mentioned below:
 
 Data Loading
+
 Data Exploration a.k.a Exploratory Data Analysis
+
 Preprocessing
+
 Feature Engineering
+
 Outlier Analysis
+
 Model Building
+
 Model Performance Benchmarking
+
 Model Performance Evaluation
+
 Cross Validation + Hyperparameter Tuning
+
 Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
 
 
